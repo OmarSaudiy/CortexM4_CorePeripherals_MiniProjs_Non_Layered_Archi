@@ -1,6 +1,6 @@
 # Breif
 This repository contain mini-projects based on TivaC-TM4C123GH6PM  </p>
-These projects could give you a breif example of how to set configuration for CortexM4 Core Peripherals </p>
+These projects could give you a breif example of how to set configuration for each of CortexM4 Core Peripherals using Non-Layered-Architecture Model </p>
 
 
 # The Content
